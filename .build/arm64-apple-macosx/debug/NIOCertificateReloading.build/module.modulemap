@@ -1,0 +1,4 @@
+module NIOCertificateReloading {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/NIOCertificateReloading-Swift.h"
+    requires objc
+}

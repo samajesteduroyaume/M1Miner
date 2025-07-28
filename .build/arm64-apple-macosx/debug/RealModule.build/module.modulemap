@@ -1,0 +1,4 @@
+module RealModule {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/RealModule.build/RealModule-Swift.h"
+    requires objc
+}

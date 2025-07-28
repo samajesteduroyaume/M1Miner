@@ -1,0 +1,4 @@
+module NIOWebSocket {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOWebSocket.build/NIOWebSocket-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module StratumClient {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClient.build/StratumClient-Swift.h"
+    requires objc
+}

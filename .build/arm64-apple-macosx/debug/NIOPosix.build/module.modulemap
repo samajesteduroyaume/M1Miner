@@ -1,0 +1,4 @@
+module NIOPosix {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOPosix.build/NIOPosix-Swift.h"
+    requires objc
+}

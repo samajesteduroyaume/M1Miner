@@ -1,0 +1,4 @@
+module HashTreeCollections {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/HashTreeCollections.build/HashTreeCollections-Swift.h"
+    requires objc
+}

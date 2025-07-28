@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Network/NetworkManager.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/NetworkManager.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/NetworkManager.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/NetworkManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/NetworkManager.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Network/NetworkManagerDelegate.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/NetworkManagerDelegate.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/NetworkManagerDelegate.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/NetworkManagerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/NetworkManagerDelegate.swiftdeps"
+  }
+}

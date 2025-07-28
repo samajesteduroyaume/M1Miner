@@ -1,0 +1,4 @@
+module CNIOPosix {
+    umbrella header "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/CNIOPosix/include/CNIOPosix.h"
+    export *
+}

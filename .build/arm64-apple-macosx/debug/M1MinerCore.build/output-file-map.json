@@ -1,0 +1,119 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/BatchProcessor.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/BatchProcessor.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/BatchProcessor.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/BatchProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/BatchProcessor.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/ConfigManager.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ConfigManager.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ConfigManager.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ConfigManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ConfigManager.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Data+Hash.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Data+Hash.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Data+Hash.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Data+Hash~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Data+Hash.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Extensions/NSLock+Extensions.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/NSLock+Extensions.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/NSLock+Extensions.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/NSLock+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/NSLock+Extensions.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Integration/MiningManager.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MiningManager.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MiningManager.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MiningManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MiningManager.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/MemoryManager.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MemoryManager.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MemoryManager.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MemoryManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MemoryManager.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Miner.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Miner.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Miner.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Miner~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Miner.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/MinerConfig.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MinerConfig.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MinerConfig.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MinerConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MinerConfig.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/MinerError.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MinerError.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MinerError.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MinerError~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/MinerError.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Models/NetworkManagerConfiguration.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/NetworkManagerConfiguration.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/NetworkManagerConfiguration.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/NetworkManagerConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/NetworkManagerConfiguration.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Monitor.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Monitor.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Monitor.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Monitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/Monitor.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Security/ReplayProtection.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ReplayProtection.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ReplayProtection.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ReplayProtection~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ReplayProtection.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Security/SecureStorage.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/SecureStorage.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/SecureStorage.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/SecureStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/SecureStorage.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Strategy/DefaultMiningStrategy.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/DefaultMiningStrategy.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/DefaultMiningStrategy.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/DefaultMiningStrategy~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/DefaultMiningStrategy.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/StratumClientConfig.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/StratumClientConfig.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/StratumClientConfig.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/StratumClientConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/StratumClientConfig.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/SystemMonitor.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/SystemMonitor.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/SystemMonitor.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/SystemMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/SystemMonitor.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/ThreadManager.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ThreadManager.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ThreadManager.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ThreadManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/ThreadManager.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/UInt256.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/UInt256.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/UInt256.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/UInt256~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/UInt256.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/M1MinerCore/Validation/InputValidator.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/InputValidator.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/InputValidator.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/InputValidator~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/InputValidator.swiftdeps"
+  }
+}

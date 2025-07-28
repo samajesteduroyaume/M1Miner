@@ -1,0 +1,4 @@
+module CNIOLLHTTP {
+    umbrella header "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/CNIOLLHTTP/include/CNIOLLHTTP.h"
+    export *
+}

@@ -1,0 +1,4 @@
+module UnixSignals {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/UnixSignals.build/UnixSignals-Swift.h"
+    requires objc
+}

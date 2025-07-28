@@ -1,0 +1,4 @@
+module NIOEmbedded {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/NIOEmbedded-Swift.h"
+    requires objc
+}

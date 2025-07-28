@@ -1,0 +1,4 @@
+module _CryptoExtras {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_CryptoExtras.build/_CryptoExtras-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module Logging {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/Logging.build/Logging-Swift.h"
+    requires objc
+}

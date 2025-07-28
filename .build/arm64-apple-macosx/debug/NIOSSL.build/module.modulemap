@@ -1,0 +1,4 @@
+module NIOSSL {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOSSL.build/NIOSSL-Swift.h"
+    requires objc
+}

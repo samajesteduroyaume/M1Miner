@@ -1,0 +1,4 @@
+module CryptoBoringWrapper {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/CryptoBoringWrapper.build/CryptoBoringWrapper-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module M1MinerPackageTests {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerPackageTests.build/M1MinerPackageTests-Swift.h"
+    requires objc
+}

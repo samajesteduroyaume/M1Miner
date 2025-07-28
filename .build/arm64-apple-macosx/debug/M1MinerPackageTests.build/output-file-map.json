@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerPackageTests.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerPackageTests.build/runner.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerPackageTests.build/runner.swiftdeps"
+  }
+}

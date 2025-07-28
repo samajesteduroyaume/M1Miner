@@ -1,0 +1,4 @@
+module M1MinerCore {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerCore.build/M1MinerCore-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module AsyncAlgorithms {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/AsyncAlgorithms.build/AsyncAlgorithms-Swift.h"
+    requires objc
+}

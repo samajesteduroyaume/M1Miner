@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingChannel.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingChannel.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingChannel.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingChannel.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingEventLoop.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingEventLoop.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingEventLoop.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingEventLoop~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingEventLoop.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOEmbedded/Embedded.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/Embedded.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/Embedded.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/Embedded~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOEmbedded.build/Embedded.swiftdeps"
+  }
+}

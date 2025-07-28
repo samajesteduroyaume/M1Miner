@@ -1,0 +1,4 @@
+module Algorithms {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/Algorithms.build/Algorithms-Swift.h"
+    requires objc
+}

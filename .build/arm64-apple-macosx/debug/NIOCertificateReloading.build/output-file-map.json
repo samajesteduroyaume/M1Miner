@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio-extras/Sources/NIOCertificateReloading/CertificateReloader.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/CertificateReloader.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/CertificateReloader.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/CertificateReloader~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/CertificateReloader.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio-extras/Sources/NIOCertificateReloading/TimedCertificateReloader.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/TimedCertificateReloader.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/TimedCertificateReloader.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/TimedCertificateReloader~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOCertificateReloading.build/TimedCertificateReloader.swiftdeps"
+  }
+}

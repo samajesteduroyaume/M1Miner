@@ -1,0 +1,4 @@
+module NIOHTTPTypesHTTP2 {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOHTTPTypesHTTP2.build/NIOHTTPTypesHTTP2-Swift.h"
+    requires objc
+}

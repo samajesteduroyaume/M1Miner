@@ -1,0 +1,4 @@
+module NIOTLS {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOTLS.build/NIOTLS-Swift.h"
+    requires objc
+}

@@ -1,0 +1,24 @@
+{
+  "poolUrl": "stratum+tcp://equihash144.eu.mine.zpool.ca:2144",
+  "walletAddress": "Gd4BuAT7FinZRNjoZGPZbswC6eEKFEYTfi.m1miner",
+  "workerName": "m1miner",
+  "password": "c=BTG,zap=BTG",
+  "algorithm": "btg",
+  "threads": 8,
+  "retryPause": 5,
+  "intensity": 20,
+  "donateLevel": 1,
+  "autoStart": true,
+  "logLevel": "info",
+  "advanced": {
+    "maxTemp": 80,
+    "fanSpeed": "auto",
+    "powerLimit": 85,
+    "threads": 0,
+    "worksize": 8,
+    "affinity": 0,
+    "noStrictSSL": false,
+    "retryPause": 5,
+    "donateLevel": 1
+  }
+}

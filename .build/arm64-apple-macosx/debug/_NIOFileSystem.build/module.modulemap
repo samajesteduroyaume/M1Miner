@@ -1,0 +1,4 @@
+module _NIOFileSystem {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystem.build/_NIOFileSystem-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module NIOConcurrencyHelpers {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOConcurrencyHelpers.build/NIOConcurrencyHelpers-Swift.h"
+    requires objc
+}

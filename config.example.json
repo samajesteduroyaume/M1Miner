@@ -1,0 +1,24 @@
+{
+  "poolUrl": "stratum+ssl://rvn.2miners.com:6060",
+  "walletAddress": "VOTRE_ADRESSE_DE_PORTEFEUILLE",
+  "workerName": "m1miner",
+  "intensity": 8,
+  "autoStart": true,
+  "logLevel": "info",
+  "api": {
+    "enabled": true,
+    "port": 8080,
+    "apiKey": "votre_cle_api_secrete"
+  },
+  "advanced": {
+    "maxTemp": 85,
+    "fanSpeed": "auto",
+    "powerLimit": 80,
+    "threads": 0,
+    "worksize": 8,
+    "affinity": 0,
+    "noStrictSSL": false,
+    "retryPause": 5,
+    "donateLevel": 1
+  }
+}

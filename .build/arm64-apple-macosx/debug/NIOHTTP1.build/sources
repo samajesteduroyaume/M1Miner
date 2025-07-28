@@ -1,0 +1,17 @@
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaderValidator.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaders+Validation.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypedPipelineSetup.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOTypedHTTPClientUpgradeHandler.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOTypedHTTPClientUpgraderStateMachine.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOTypedHTTPServerUpgradeHandler.swift
+/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOTypedHTTPServerUpgraderStateMachine.swift

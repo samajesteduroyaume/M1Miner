@@ -1,0 +1,4 @@
+module InternalCollectionsUtilities {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/InternalCollectionsUtilities.build/InternalCollectionsUtilities-Swift.h"
+    requires objc
+}

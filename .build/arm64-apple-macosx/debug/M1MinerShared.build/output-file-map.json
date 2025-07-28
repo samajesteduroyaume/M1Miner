@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/Shared/ConsolidatedProtocols.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/ConsolidatedProtocols.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/ConsolidatedProtocols.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/ConsolidatedProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/ConsolidatedProtocols.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/Shared/Network/NetworkManagerProtocols.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/NetworkManagerProtocols.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/NetworkManagerProtocols.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/NetworkManagerProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/NetworkManagerProtocols.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/Shared/SharedTypes.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/SharedTypes.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/SharedTypes.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/SharedTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/SharedTypes.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/Shared/StratumNotification.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/StratumNotification.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/StratumNotification.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/StratumNotification~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/StratumNotification.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/Shared/StratumTypes.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/StratumTypes.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/StratumTypes.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/StratumTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/StratumTypes.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/Shared/SubmitResult.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/SubmitResult.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/SubmitResult.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/SubmitResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerShared.build/SubmitResult.swiftdeps"
+  }
+}

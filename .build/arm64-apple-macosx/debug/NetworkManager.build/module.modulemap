@@ -1,0 +1,4 @@
+module NetworkManager {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NetworkManager.build/NetworkManager-Swift.h"
+    requires objc
+}

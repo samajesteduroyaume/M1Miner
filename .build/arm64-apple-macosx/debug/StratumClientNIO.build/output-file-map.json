@@ -1,0 +1,119 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Core/StratumClient+Callbacks.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Callbacks.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Callbacks.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Callbacks~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Callbacks.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Core/StratumClient+Conformance.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Conformance.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Conformance.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Conformance~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Conformance.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Core/StratumClient+Handlers.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Handlers.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Handlers.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Handlers~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Handlers.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Core/StratumClient+Lifecycle.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Lifecycle.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Lifecycle.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Lifecycle~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Lifecycle.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Core/StratumClient+NetworkHandling.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+NetworkHandling.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+NetworkHandling.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+NetworkHandling~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+NetworkHandling.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Core/StratumClient+RequestHandling.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+RequestHandling.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+RequestHandling.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+RequestHandling~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+RequestHandling.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Core/StratumClient+Utilities.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Utilities.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Utilities.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Utilities.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Core/StratumClientCore.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClientCore.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClientCore.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClientCore~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClientCore.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Enums/StratumError.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumError.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumError.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumError~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumError.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Extensions/AnyDecodable+Extensions.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable+Extensions.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable+Extensions.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable+Extensions.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Extensions/AnyDecodable+ValueExtraction.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable+ValueExtraction.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable+ValueExtraction.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable+ValueExtraction~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable+ValueExtraction.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Extensions/Logger+Extensions.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/Logger+Extensions.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/Logger+Extensions.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/Logger+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/Logger+Extensions.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Extensions/StratumClient+Extensions.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Extensions.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Extensions.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClient+Extensions.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Models/AnyDecodable.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/AnyDecodable.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Models/StratumModels.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumModels.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumModels.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumModels.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Network/NetworkManager.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/NetworkManager.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/NetworkManager.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/NetworkManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/NetworkManager.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Network/NetworkManagerAdapter.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/NetworkManagerAdapter.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/NetworkManagerAdapter.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/NetworkManagerAdapter~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/NetworkManagerAdapter.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/Protocols/StratumProtocols.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumProtocols.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumProtocols.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumProtocols.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Sources/StratumClientNIO/StratumClientNIO.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClientNIO.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClientNIO.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClientNIO~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/StratumClientNIO.build/StratumClientNIO.swiftdeps"
+  }
+}

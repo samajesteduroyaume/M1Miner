@@ -1,0 +1,4 @@
+module Atomics {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/Atomics.build/Atomics-Swift.h"
+    requires objc
+}

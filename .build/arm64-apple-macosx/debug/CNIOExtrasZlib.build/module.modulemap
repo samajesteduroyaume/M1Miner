@@ -1,0 +1,4 @@
+module CNIOExtrasZlib {
+    umbrella header "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio-extras/Sources/CNIOExtrasZlib/include/CNIOExtrasZlib.h"
+    export *
+}

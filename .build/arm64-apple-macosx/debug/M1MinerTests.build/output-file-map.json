@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Tests/M1MinerTests/ConfigManagerTests.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/ConfigManagerTests.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/ConfigManagerTests.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/ConfigManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/ConfigManagerTests.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Tests/M1MinerTests/MinerTests.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/MinerTests.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/MinerTests.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/MinerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/MinerTests.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Tests/M1MinerTests/StratumClientTests.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/StratumClientTests.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/StratumClientTests.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/StratumClientTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/StratumClientTests.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/Tests/M1MinerTests/ThreadManagerTests.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/ThreadManagerTests.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/ThreadManagerTests.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/ThreadManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/M1MinerTests.build/ThreadManagerTests.swiftdeps"
+  }
+}

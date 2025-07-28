@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOFileSystemFoundationCompat/Data+FileSystem.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Data+FileSystem.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Data+FileSystem.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Data+FileSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Data+FileSystem.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/NIOFileSystemFoundationCompat/Date+FileInfo.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Date+FileInfo.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Date+FileInfo.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Date+FileInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/Date+FileInfo.swiftdeps"
+  }
+}

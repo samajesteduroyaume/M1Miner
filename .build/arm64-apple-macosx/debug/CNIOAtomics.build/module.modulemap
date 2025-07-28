@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}

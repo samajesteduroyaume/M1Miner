@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella header "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+    export *
+}

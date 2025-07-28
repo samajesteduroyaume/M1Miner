@@ -1,0 +1,4 @@
+module Collections {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/Collections.build/Collections-Swift.h"
+    requires objc
+}

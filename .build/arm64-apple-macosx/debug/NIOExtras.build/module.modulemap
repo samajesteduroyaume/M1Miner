@@ -1,0 +1,4 @@
+module NIOExtras {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOExtras.build/NIOExtras-Swift.h"
+    requires objc
+}

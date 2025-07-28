@@ -1,0 +1,4 @@
+module HeapModule {
+    header "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/HeapModule.build/HeapModule-Swift.h"
+    requires objc
+}

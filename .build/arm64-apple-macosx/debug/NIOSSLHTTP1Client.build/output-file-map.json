@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOSSLHTTP1Client.build/master.swiftdeps"
+  },
+  "/Users/selim/Desktop/M1Miner/.build/checkouts/swift-nio-ssl/Sources/NIOSSLHTTP1Client/main.swift": {
+    "dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOSSLHTTP1Client.build/main.d",
+    "object": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOSSLHTTP1Client.build/main.swift.o",
+    "swiftmodule": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOSSLHTTP1Client.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/selim/Desktop/M1Miner/.build/arm64-apple-macosx/debug/NIOSSLHTTP1Client.build/main.swiftdeps"
+  }
+}
