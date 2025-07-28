@@ -17,13 +17,12 @@ extension StratumClientNIO {
         switch method {
         case "mining.notify":
             handleNewJobNotification(params: params)
-            
         case "mining.set_difficulty":
             handleSetDifficultyNotification(params: params)
-            
         case "mining.set_extranonce":
             handleSetExtranonceNotification(params: params)
-            
+        case "mining.set_target":
+            handleSetTargetNotification(params: params)
         default:
             logger.warning("⚠️ Notification non gérée: \(method)")
         }
@@ -31,7 +30,7 @@ extension StratumClientNIO {
     
     /// Gère la notification de nouveau travail
     /// - Parameter params: Paramètres de la notification
-    private func handleNewJobNotification(params: [Any]) {
+    fileprivate func handleNewJobNotification(params: [Any]) {
         logger.debug("🔄 Nouveau travail reçu")
         
         // Vérifie le nombre de paramètres (zpool envoie souvent 10 ou plus)

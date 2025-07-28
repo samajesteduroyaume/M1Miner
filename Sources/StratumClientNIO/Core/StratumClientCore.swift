@@ -6,7 +6,7 @@ import Network
 import M1MinerShared
 
 /// Classe principale du client Stratum utilisant NIO
-public final class StratumClientNIO: StratumClientInterface {
+public final class StratumClientNIO: M1MinerShared.StratumClientInterface, @unchecked Sendable {
     
     // MARK: - Propriétés publiques
     
@@ -18,10 +18,18 @@ public final class StratumClientNIO: StratumClientInterface {
         get { reconnectDelayLock.withLock { _reconnectDelayValue } }
         set { reconnectDelayLock.withLock { _reconnectDelayValue = newValue } }
     }
+
+    // --- Gestion de la notification mining.set_target ---
+    func handleSetTargetNotification(params: [Any]) {
+        logger.info("🎯 Nouvelle target reçue (mining.set_target): \(params)")
+        // Ici, vous pouvez stocker la target ou l’utiliser selon vos besoins
+    }
+
+
     private var reconnectAttempts: Int = 0
     
     /// Délégué pour les événements du client
-    public weak var delegate: StratumClientDelegate?
+    public weak var delegate: M1MinerShared.StratumClientDelegate?
     
     // MARK: - Propriétés conformes à StratumClientInterface
 
